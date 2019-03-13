@@ -1,4 +1,4 @@
-user service with help of spring boot
+Restaurant service with help of spring boot
 
 Tasks to be Done Post Demo
 1. Complete all the endpoints for CRUD operations on Muzix
